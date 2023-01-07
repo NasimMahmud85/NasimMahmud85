@@ -1,10 +1,4 @@
-- 👋 Hi, I’m @NasimMahmud85
-- 👀 I’m interested in Full Stack Web Developer
-- 🌱 I’m currently learning PHP & Laravel
-- 💞️ I’m looking to collaborate on My Team
-- 📫 How to reach me ...
+Nasim Mahmud/README.md
+I'm Nasim Mahmud , a Web developer with two years of experience designing and developing websites. I'm up to date on all current development and standards. If these are the services you require, you will undoubtedly receive amazing outcomes from me! Send me a message right now. I'm excited to collaborate with you!
 
-<!---
-NasimMahmud85/NasimMahmud85 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Skills: LARAVEL/ PHP/ VUE JS/ AJAX /JQUERY /JS / BOOTSTRAP5 / HTML / CSS
